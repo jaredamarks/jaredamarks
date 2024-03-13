@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... a software project.
 - 📫 How to reach me ... idku@duck.com
 - 😄 Pronouns: ... him.
-- ⚡ Fun fact: ... i might be a he too.
+- ⚡ Fun fact: ... i might be a hero too.
 
 <!---
 jaredamarks/jaredamarks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
